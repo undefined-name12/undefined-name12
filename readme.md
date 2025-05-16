@@ -21,8 +21,6 @@
 
 ---
 
-## 📚 Actualmente aprendiendo
-
 <h2>📚 Actualmente aprendiendo</h2>
 
 <p align="left">
