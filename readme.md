@@ -70,7 +70,7 @@
 
 ---
 
-## Profile Views 🔍
+## Profile Views 🥷
 ![Profile Views](https://camo.githubusercontent.com/e52cfd67cd44bb8657840c64ebd2cd72b5d4702f1c622f1610c331dedd4a6752/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d69726f6e7765623130)
 
 ---
