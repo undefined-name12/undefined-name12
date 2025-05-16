@@ -11,7 +11,7 @@
 ## 🚀 Sobre mí
 
 - 🧠 Hacker ético, modder de videojuegos, especialista en ciberseguridad y cazador de bugs.
-- 🛠️ Cerrajero digital, perito en informática forense, y estudiante de ingeniería en telecomunicaciones.
+- 🛠️ Cerrajero, informática forense, y estudiante de ingeniería en telecomunicaciones.
 - 🧰 Apasionado del hardware y la ingeniería informática.
 - 🗺️ Creador de mapas en Fortnite, programador y optimizador de computadoras.
 - 🏆 Más de 8 mil USD ganados en competiciones de Fortnite.
