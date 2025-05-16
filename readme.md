@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mí
 
-- 🧠 Hacker ético, modder de videojuegos, especialista en ciberseguridad y cazador de bugs.
+- 🧠 Hacker ético, modder de videojuegos, especialista en ciberseguridad, programador y cazador de bugs.
 - 🛠️ Cerrajero, informática forense, y estudiante de ingeniería en telecomunicaciones.
 - 🧰 Apasionado del hardware y la ingeniería informática.
 - 🗺️ Creador de mapas en Fortnite, programador y optimizador de computadoras.
