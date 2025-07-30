@@ -2,9 +2,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&lines=Desarrollador+Full-stack+%F0%9F%92%BB;Creador+de+Bots+de+Discord+%F0%9F%A4%96;Siempre+aprendiendo+algo+nuevo+%F0%9F%8C%8D" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E0EDF7&width=435&lines=desarrollador+full+stack;creador+de+bots+en+discord)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70CAF&width=435&lines=red+team+pentester)](https://git.io/typing-svg)
 
