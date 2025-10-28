@@ -13,7 +13,7 @@
 - 🧠 Hacker ético, modder de videojuegos, especialista en ciberseguridad, programador y cazador de bugs.
 - 🛠️ Cerrajero, informática forense, y estudiante de ingeniería en telecomunicaciones.
 - 🧰 Apasionado del hardware y la ingeniería informática.
-- 🗺️ Creador de mapas en Fortnite, programador y optimizo ordenadores.
+- 🗺️ Creador de mapas en Fortnite y optimizo ordenadores.
 - 🏆 Más de 8 mil USD ganados en competiciones de Fortnite.
 - 🛡️ Moderador de servidores de Discord.
 - 🎮 Jugador profesional de Rocket League, Beat Saber, Fortnite y Phasmophobia.
@@ -74,4 +74,5 @@
 ![Profile Views](https://camo.githubusercontent.com/e52cfd67cd44bb8657840c64ebd2cd72b5d4702f1c622f1610c331dedd4a6752/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d69726f6e7765623130)
 
 ---
+
 
